@@ -8,27 +8,4 @@
     "requirement": 57,
     "records": [
       { "player": "Speaker2k17", "percent": 100, "video": "" },
-      
     ]
-  },
-  {
-    "name": "Acropolis",
-    "creator": "Zobros",
-    "verifier": "Speaker2k17",
-    "levelId": "5155022",
-    "video": "https://www.youtube.com/watch?v=SSAfuCZ2cks&list=RDSSAfuCZ2cks&start_radio=1",
-    "requirement": 55,
-    "records": [
-      { "player": "Speaker2k17", "percent": 100, "video": } 
-    ]
-  },
-  {
-    "name": "Przykładowy Level C",
-    "creator": "TwórcaC",
-    "verifier": "WeryfikatorC",
-    "levelId": "34567890",
-    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "requirement": 50,
-    "records": []
-  }
-]
