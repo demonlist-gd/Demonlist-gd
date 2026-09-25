@@ -32,54 +32,7 @@
     "records": [
       { "player": "Kacziom01", "percent": 100, "video": "" }   
     ]
-  },
-   {
-    "name": "Future funk",
-    "creator": "JonathanGD",
-    "verifier": "Kacziom01",
-    "levelId": "44062068",
-    "video": "https://www.youtube.com/watch?v=LUORMA2NvmM&list=RDLUORMA2NvmM&start_radio=1",
-    "requirement": 50,
-    "records": [
-      { "player": "Kacziom01", "percent": 100, "video": "" }
-  
-      
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]
+ ]
 
 
 
